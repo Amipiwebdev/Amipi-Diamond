@@ -1,0 +1,438 @@
+/*------------Home Page----------------*/
+
+
+/*.slick-prev {
+    left: 0px !important;
+}
+
+.slick-next {
+    right: 0px !important;
+}*/
+
+
+@media (max-width: 1480px) { 
+
+section.banner-section {
+       background-size: cover !important;
+}
+
+
+
+}
+
+@media(min-width: 992px) and (max-width: 1199px) {
+
+    .col-12.col-lg-6.inner-form-schedule.padding-right-0 , .col-12.col-lg-6.inner-form-schedule.padding-left-0{
+    padding: 0px;
+}
+
+    section.border-bottom-light.sm-text-center.section-padding.login-design .panel.panel-info, section.border-bottom-light.sm-text-center.section-padding .panel.panel-info.radius-flat  {
+    margin-top: 25px;
+}
+
+.who-we-are-section .padding-right, .our-diamonds-section .padding-right {
+    padding-right: 0rem;
+}
+.who-we-do-section .padding-left, section.h-n-a-diamonds .padding-left {
+    padding-left: 0rem;
+}
+
+
+
+.banner-overlay {
+    top: 30%;
+}
+
+footer .contact-detail p {
+    font-size: 16px;
+    font-weight: normal;
+    margin: 0px 0px 8px 0px;
+}
+
+.col-md-3.col-sm-3.about p {
+    margin-top: 30px;
+    font-size: 16px;
+}
+
+.contact-box-info li, .contact-box-info li a {
+    font-size: 14px;
+}
+.contact-box-info {
+    padding: 15px 5px 15px 5px; 
+    min-height: 138px;
+}
+
+.contact-box-title {
+    padding: 15px 0 14px 0px;
+}
+.contact-box-title .c-box-info {
+    text-align: center;
+}
+.map-n-form .contact-form p {
+    width: auto;
+}
+h3.contact-page-title {
+    padding-bottom: 0px;
+}
+section.map-n-form .contact-form textarea {
+    
+}
+section.map-n-form .contact-form input{
+    margin-bottom: 18px;
+}
+ul.subnav-sfd li {
+    float: left;
+    width: 42%;
+}
+
+
+}
+@media (max-width: 991px){
+    div.sticky{
+        display: none;
+    }
+}
+
+@media(min-width: 768px) and (max-width: 991px) {
+
+    .search_filter_stock .col-sm-10.col-md-10.col-lg-10.col-xs-12 {
+    padding: 10px 15px;
+    margin-top: 15px;
+} 
+.tps_filter label {
+    line-height: 28px !important;
+}
+
+.tps_filter {
+    height: 90px;
+}
+
+    .well-inner {
+    min-height: 197px;
+}
+
+    section.appointment-page .col-md-8 {
+    margin-bottom: 50px;
+}
+
+    .col-12.col-lg-6.inner-form-schedule.padding-right-0 , .col-12.col-lg-6.inner-form-schedule.padding-left-0 , section.dia-page{
+    padding: 0px;
+}
+
+ul.subnav-sfd li {
+    float: left;
+    width: 50%;
+}
+
+section.border-bottom-light.sm-text-center.section-padding.login-design .panel.panel-info, section.border-bottom-light.sm-text-center.section-padding .panel.panel-info.radius-flat  {
+    margin-top: 25px;
+}
+
+
+
+.banner-overlay h1 {
+    font-size: 45px;
+}
+
+.who-we-are-section .padding-right, .our-diamonds-section .padding-right {padding-right: 0rem;}
+
+.who-we-do-section .padding-left, section.h-n-a-diamonds .padding-left {padding-left: 0rem;}
+
+.logos-section ul li {margin: 0px;}
+
+footer .col-md-4.col-sm-3.contact-detail {padding-left: 0px;}
+
+.col-md-3.col-sm-3.about p {margin-top: 15px;     font-size: 14px;
+    line-height: 22px;}
+
+    footer .contact-detail p {
+    font-size: 14px;
+}
+
+footer ul.social-icon li {margin: 0px 6px 10px 0px;}
+
+.footer-contact-detail i {height: 45px;}
+
+.copyright {margin-top: 30px;}
+
+
+header ul.nav.navbar-nav li a {
+    padding: 15px 4px;
+    font-size: 16px;
+}
+
+header ul.dropdown-menu li a {
+    padding: 5px 4px !important;
+}
+
+section.middle-bg-section {
+    padding: 50px 0px !important;
+}
+
+footer ul li a {
+    font-size: 14px;
+}
+
+footer h5 {
+    font-size: 16px;
+    margin-bottom: 15px;
+}
+
+section.who-we-are-section, section.who-we-do-section {
+    padding: 30px 0px;
+}
+section.who-we-are-section {
+    padding-bottom: 0px;
+}
+
+.map-n-form .contact-form p {
+    width: auto;
+    margin: 0px auto 30px;
+    font-size: 14px;
+    line-height: 22px;
+}
+.contact-box-info li, .contact-box-info li a {
+    font-size: 15px;
+}
+.contact-box-info {
+    padding: 15px 10px 15px 10px; 
+    min-height: 114px;
+}
+
+.contact-box-title {
+    padding: 15px 0 14px 0px;
+}
+.contact-box-title .c-box-info {
+    text-align: center;
+}
+.contact-box-info .col-lg-3.col-md-3.col-sm-4.col-xs-4 {
+    padding-right: 0px;
+}
+.contact-box-main-block .contact-box {
+    margin-bottom: 30px;
+}
+section.map-n-form .col-md-6.padding-left-right-0.contact-map-bg {
+    padding: 35px 15px !important;
+}
+h3.contact-page-title {
+    margin-bottom: 8px;
+    padding-bottom: 10px;
+        font-size: 22px;
+}
+form.contact-form .col-12.col-lg-6.padding-left-0 {
+    padding-right: 0px;
+}
+
+form.contact-form .col-12.col-lg-6.padding-right-0 {padding-left: 0px;}
+section.map-n-form .contact-form textarea {
+    margin: 0px 0px;
+}
+ul#tps_diamond_shapes a {
+    font-size: 14px !important;
+}
+
+.nav>li>a {
+    padding: 10px 6px!important;
+}
+
+}
+
+
+@media(max-width: 767px){
+
+     ul.nav.text-center{
+        text-align: unset;
+    }
+
+     #myNavbar li {
+    display: block;
+    }
+
+    section.appointment-page .col-md-8 {
+    margin-bottom: 30px;
+    }
+
+    section.map-n-form .col-md-6.padding-left-right-0.contact-map-bg {
+    padding: 50px !important;
+    height: auto;
+    }
+
+ 
+    .col-12.col-lg-6.inner-form-schedule.padding-right-0 , .col-12.col-lg-6.inner-form-schedule.padding-left-0 , section.dia-page{
+    padding: 0px;
+}
+
+    .format-terms img {
+    margin: auto;
+}
+
+.format-terms {
+    margin-bottom: 5px;
+}
+    section.border-bottom-light.sm-text-center.section-padding.login-design .panel.panel-info, section.border-bottom-light.sm-text-center.section-padding .panel.panel-info.radius-flat  {
+    margin-top: 25px;
+}
+.who-we-are-section .padding-right, .our-diamonds-section .padding-right {padding-right: 0rem;}
+.vcenter {float: left !important;}
+section.who-we-are-section img {margin: 50px auto 0px;}
+.who-we-do-section .padding-left, section.h-n-a-diamonds .padding-left {padding-left: 0rem;}
+section.middle-bg-section .who-we-do-section {
+    padding-bottom: 40px;    padding-top: 0px;
+}
+section.middle-bg-section .our-diamonds-section {padding-top: 10px;     padding-bottom: 0px;}
+section.middle-bg-section .our-diamonds-section p:last-child , .who-we-do-section.hidden-sm.hidden-lg.hidden-md p:last-child {margin-bottom: 20px;}
+section.contact-form-map .col-md-6.col-sm-6.col-xs-12:first-child {padding-bottom: 40px;}
+.footer-contact-detail i {height: 20px;}
+footer h5 {
+    margin-top: 21px;
+        font-size: 18px;
+}
+.copyright {
+    line-height: 23px;
+    margin-top: 40px;
+    padding: 5px 0px;
+}
+footer {padding-top: 40px;}
+footer ul.social-icon li {margin: 0px 20px 0px 0px;}
+.copyright {height: auto;}
+.copyright p {text-align: center !important;}
+.logos-section.text-center img {width: 102px;}
+.logos-section ul li {margin: 2px;}
+.navbar-brand {
+    height: auto !important;
+}
+
+#header .container{
+    padding: 0;
+}
+header {
+    position: relative;
+    padding: 10px 0px;
+}
+.navbar-brand img {
+    margin: 0px;
+}
+section.banner-section {
+   
+    background-size: cover;
+}
+
+section.banner-section {
+    height: 70vh;
+}
+
+.banner-overlay {
+    top: 25%;
+}
+section.middle-bg-section {
+    padding: 70px 0px !important;
+}
+body, footer .contact-detail p {
+    font-size: 16px !important;
+}
+
+header .navbar-brand {
+    width: auto;}
+
+   header  ul.nav.navbar-nav li a {
+    line-height: 12px;
+}
+
+header .navbar-nav {
+    margin: 40px -15px;
+}
+header ul li a {
+    padding: 8px 0px !important;
+}
+
+header .dropdown-menu.w-100 .h2 {
+    margin-top: 0px;
+    font-size: 20px;
+}
+
+.dropdown-menu.w-100 img {
+    display: none;
+}
+section.who-we-do-section.hidden-sm.hidden-lg.hidden-md .col-md-6.col-sm-6.col-xs-12.vcenter img {
+    margin: auto;
+}
+section.who-we-are-section, section.who-we-do-section {
+    padding: 30px 0px;
+}
+section.who-we-are-section {
+    padding-bottom: 0px;
+}
+}
+
+
+
+@media(max-width: 576px){
+
+    section.banner-section {
+    height: 55vh;
+}
+
+    .map-n-form .contact-form p {
+    width: auto;
+    }
+
+    .col-12.col-lg-6.inner-form-schedule.padding-right-0 , .col-12.col-lg-6.inner-form-schedule.padding-left-0{
+    padding: 0px;
+}
+
+
+    section.border-bottom-light.sm-text-center.section-padding.login-design .panel.panel-info, section.border-bottom-light.sm-text-center.section-padding .panel.panel-info.radius-flat {
+    margin-top: 25px;
+}
+
+    section {padding: 30px 0px;}
+section.middle-bg-section br { display: none;}
+.logos-section ul li {
+    margin: 5px 1px;
+}
+.logos-section.text-center img {
+    width: 100%;
+}
+.navbar-brand img {
+    margin: 0px;
+}
+
+iframe {
+    height: 300px;
+}
+
+/*section.banner-section {
+    height: 30vh;
+}*/
+
+ .banner-overlay p {
+    margin-bottom: 30px;
+    display: none;
+}
+
+section h2.primary.text-capitalize {
+    font-size: 25px !important;
+    margin: 0px 0px 20px 0px;
+}
+
+.banner-overlay h1 {
+    font-size: 22px !important;
+    margin-bottom: 25px !important;
+}
+section.who-we-are-section img {
+    margin: 30px auto 0px;
+}
+
+
+
+}
+
+section.border-bottom-light.sm-text-center {
+    padding: 0px;
+}
+footer h5 {
+    color: #fff;
+}
+section#pageContent {
+    padding: 0px 0px 35px;
+}

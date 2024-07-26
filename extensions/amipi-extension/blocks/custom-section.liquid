@@ -1,0 +1,30 @@
+<div>{{ settings.heading }}</div>
+<img width="200" height="200" src="{{ settings.image | img_url : 'master' }}">
+<div>{{ settings.paragraph }}</div>
+paragraph
+{% schema %}
+  {
+    "name": "Custom section",
+    "target": "section",
+    "settings": [
+      {
+        "type": "text",
+        "id": "heading",
+        "label": "Heading Text",
+        "default": "default text"
+      },
+      {
+        "type": "image_picker",
+        "id": "image",
+        "label": "image"
+      },
+      {
+        "type": "richtext",
+        "id": "paragraph",
+        "label": "Paragraph",
+        "default": "<p>default text</p>"
+      }
+    ]
+    
+  }
+{% endschema %}
